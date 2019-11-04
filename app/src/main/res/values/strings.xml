@@ -1,0 +1,28 @@
+<resources>
+	<string name="app_name">McPwn</string>
+	<string name="connect">Se connecter</string>
+	<string name="title_activity_login">LoginActivity</string>
+	<string name="title_activity_main2">Main2Activity</string>
+	<string name="title_section1">Section 1</string>
+	<string name="title_section2">Section 2</string>
+	<string name="title_section3">Section 3</string>
+
+	<string name="navigation_drawer_open">Open navigation drawer</string>
+	<string name="navigation_drawer_close">Close navigation drawer</string>
+
+	<string name="action_example">Example action</string>
+
+	<string name="action_settings">Settings</string>
+	<string name="aclist_text">Liste des comptes</string>
+	<string name="mcpwn_menu">McPwn Menu</string>
+	<string name="author">LelouBil :D</string>
+
+	<!-- TODO: Remove or change this placeholder text -->
+	<string name="hello_blank_fragment">Hello blank fragment</string>
+	<string name="vue_d_ensemble">Vue d\'ensemble</string>
+	<string name="less15">Moins de 15 points</string>
+	<string name="moreFourty">Plus de 40 points</string>
+	<string name="barcode">code barre</string>
+	<string name="mostpoints">Le plus de points</string>
+	<string name="leastpoints">Le moins de points</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:background="@drawable/item_border">
+
+
+	<TextView
+			android:text=""
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_alignParentStart="true"
+			android:id="@+id/time"
+			android:layout_marginStart="23dp"
+			android:textSize="24sp"
+			android:layout_centerVertical="true"/>
+
+	<TextView
+			android:text=""
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:id="@+id/price"
+			android:layout_alignParentStart="true"
+			android:layout_centerVertical="true"
+			android:layout_marginStart="138dp"
+			android:textSize="24sp"/>
+
+	<TextView
+			android:text=""
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_centerVertical="true"
+			android:id="@+id/points_view"
+			android:layout_alignParentEnd="true"
+			android:layout_marginEnd="18dp"
+			android:textSize="24sp"/>
+</RelativeLayout>
