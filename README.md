@@ -1,3 +1,4 @@
+![Travis Badge](https://travis-ci.com/LelouBil/McPwn.svg?branch=master)
 # McPwn
 Alternate client for the Mcdonalds France app, entirely based on the fidelity system
 
